@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   appName: "Udagram Microservices Application - Udacity",
   apiHost:
-    "http://a836466478866419986221746fb7f18c-1431648408.us-east-1.elb.amazonaws.com:8080/api/v0",
+    "http://a1d354e786c004ac4921e7c5cf05dc9f-1163436705.us-east-1.elb.amazonaws.com:8080/api/v0",
 };
 
 /*
