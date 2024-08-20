@@ -15,4 +15,4 @@ services:
   frontend:
     build:
       context: ./udagram-frontend
-    image: thangnv1802/udagram-frontend:v4a
+    image: thangnv1802/udagram-frontend:v6
